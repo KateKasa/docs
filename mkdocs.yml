@@ -1,0 +1,17 @@
+site_name: My Docs
+nav:
+    - Пользовательская инструкция: user_guide.md
+
+markdown_extensions:
+    - pymdownx.superfences
+
+ theme:
+    name: windmill
+    features:
+        - navigation.tabs 
+
+markdown_extensions:
+    - admonition
+
+    
+    
